@@ -1,0 +1,182 @@
+#title{
+    height: 80%;
+    background-image: url("https://img.freepik.com/premium-psd/basket-with-fresh-bread_23-2148469703.jpg?w=2000");
+    
+}
+
+.bake{
+    text-align: center;
+    padding-top:5%;
+    padding-bottom: 5%;
+    font-size:20px;
+
+}
+.b{
+    right:auto;
+    height:60%;
+    width: 30%;
+
+}
+.i{
+    height:15%;
+    width: 15%;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 1000;
+}
+
+.container-fluid{
+    padding:10% 5%;
+}
+
+.nav-item{
+
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.im{
+    height: 100%;
+    width: 60%;
+}
+
+.navbar{
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+#features{
+    padding: 7% 15%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+
+.b{
+    text-align: center;
+}
+
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:800;
+    font-size:30px;
+}
+
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 800;
+}
+
+.k{
+    width:40%;
+    border-radius: 20%;
+}
+
+.icon{
+    margin-bottom: 1rem;
+    color: black;
+}
+
+.icon:hover{
+    color:#b8860b;
+}
+
+.carousel-item
+{
+    padding: 7% 13%;
+}
+
+.card-title{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.btn{
+    margin: 1%;
+}
+.card-title:hover{
+    color: rgb(225, 140, 29);
+}
+
+.bt:hover{
+    color:aqua;
+}
+.card-img-top{
+    height: 50%;
+    width: 50%;
+    border-radius: 40%;
+}
+.card-text{
+    font-size:20px;
+    font-weight: bold;
+
+}
+.col{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.c{
+    padding-top: 5%;
+    margin-left:290px;
+}
+#cta{
+    background-image: url("https://img.freepik.com/premium-photo/blurred-background-product-shelf-bakery-shop_7189-1437.jpg?w=2000");
+    text-align: center;
+    
+}
+#testimonials
+{
+    padding: 7% 15%;
+    text-align:center;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20200701/ourmid/pngtree-pink-minimalist-bakery-background-material-image_344839.jpg");  
+}
+
+#press{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20200701/ourmid/pngtree-pink-minimalist-bakery-background-material-image_344839.jpg");
+
+    padding-bottom: 5%;
+    text-align:center;
+
+    
+}
+
+.fv{
+    font-size: 30px;
+    padding:100px ;
+    padding-top: 50px;
+    padding-bottom: 0;
+}
+.head{
+    
+}
+.logo{
+    width: 15%;
+    margin: 10px 10px 50px;
+    padding-right: 4%;
+}
+
+#footer{
+    padding: 5% 7%;
+    text-align: center;
+}
